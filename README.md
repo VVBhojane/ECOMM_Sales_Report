@@ -22,7 +22,7 @@ This project involved:
 
 * **Customer Insights:** Highlighted key customers and their contributions to sales.
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/VVBhojane/Ecomm_Sales_Report/blob/main/Screenshot%202024-06-13%20203704.png)
 
 ****Outcome:****
 
